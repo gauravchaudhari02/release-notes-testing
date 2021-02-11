@@ -1,7 +1,7 @@
-# Automated release notes generation for OVA
+# Automated pre-release with release notes generation for OVA
 
 ## Description
-Create a OVA pre-release in `Seagate/cortx` repository with release-notes includes features, bugfixes and general changes happened since last release.
+Create a OVA pre-release in [`Seagate/cortx`](https://github.com/Seagate/cortx) repository with release-notes includes features, bugfixes and general changes happened since last release.
 
 ## How to create OVA pre-release with release-notes?
 1. Install all dependencies mentioned in `requirements.txt`.
