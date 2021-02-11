@@ -5,7 +5,7 @@ Create a OVA pre-release in `Seagate/cortx` repository with release-notes includ
 1. Install all dependencies mentioned in `requirements.txt`.
 2. Run `ova_release.py` script with required arguments as follow
   
-  `python3 ova_release.py -u <JIRA Username> -p <JIRA Password> --query <JIRA Query> --build <OVA Build Number> --release <GitHub Release Number> --sourceBuild <CORTX Build Number> --targetBuild <CORTX Build Number>`
+`python3 ova_release.py -u <JIRA Username> -p <JIRA Password> --query <JIRA Query> --build <OVA Build Number> --release <GitHub Release Number> --sourceBuild <CORTX Build    Number> --targetBuild <CORTX Build Number>`
   
   
   Parameters:
